@@ -17,7 +17,7 @@
     "@babylonjs/materials": "^5.0.0-alpha.38",
     "@babylonjs/procedural-textures": "^5.0.0-alpha.38",
     "@quasar/extras": "^1.0.0",
-    "@vue/composition-api": "^1.0.0-rc.3",    
+    "@vue/composition-api": "^1.0.0-rc.3",
     "core-js": "^3.6.5",
     "oimo": "^1.0.9",
     "quasar": "^1.0.0"
@@ -27,7 +27,7 @@
     "@types/node": "^10.17.15",
     "@types/react": "^17.0.18",
     "@typescript-eslint/eslint-plugin": "^4.16.1",
-    "@typescript-eslint/parser": "^4.16.1",    
+    "@typescript-eslint/parser": "^4.16.1",
     "babel-eslint": "^10.0.1",
     "eslint": "^7.21.0",
     "eslint-config-prettier": "^8.1.0",
